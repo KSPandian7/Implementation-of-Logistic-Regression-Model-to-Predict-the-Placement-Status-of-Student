@@ -89,40 +89,40 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 ## Output:
 
-#### 1 > Placement Data
+#### 1 Placement Data
 ![OUTPUT](/placement_data.png)
 
-#### 2 > Droped Dataset
+#### 2 Droped Dataset
 ![OUTPUT](/dropslno_salary.png)
 
-#### 3 > Checking Null 
+#### 3 Checking Null 
 ![OUTPUT](/null_sum.png)
 
-#### 4 > Duplicate Data
+#### 4 Duplicate Data
 ![OUTPUT](/duplicated.png)
 
-#### 5 > LabelEncoder
+#### 5 LabelEncoder
 ![OUTPUT](/labelencoder.png)
 
-#### 6 > Data
+#### 6 Data
 ![OUTPUT](/datax.png)
 
-#### 7 > Data Staus
+#### 7 Data Staus
 ![OUTPUT](/datay.png)
 
-#### 8 > Prediction array
+#### 8 Prediction array
 ![OUTPUT](/pred.png)
 
-#### 9 > Accuracy value
+#### 9 Accuracy value
 ![OUTPUT](/accuracy.png)
 
-#### 10 > Confusion matrix
+#### 10 Confusion matrix
 ![OUTPUT](/confusionmatrix.png)
 
-#### 11 > Classification Report
+#### 11 Classification Report
 ![OUTPUT](/classification_report.png)
 
-#### 12 > Prediction of LR
+#### 12 Prediction of LR
 ![OUTPUT](/lr_predict.png)
 
 ## Result:
